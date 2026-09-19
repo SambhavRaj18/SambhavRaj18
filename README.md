@@ -94,21 +94,15 @@
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=SambhavRaj18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sambhav's GitHub Stats" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SambhavRaj18&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SambhavRaj18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SambhavRaj18&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=SambhavRaj18&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SambhavRaj18&theme=tokyonight" alt="Repos Per Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SambhavRaj18&theme=tokyonight" alt="Most Commit Language" width="48%" />
+</p>
 
 </div>
 
