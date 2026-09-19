@@ -1,15 +1,15 @@
 <div align="center">
 
 # Hi, I'm Sambhav Raj 👋
-### AI/ML-Focused Developer · Python · Machine Learning · Computer Vision
+### AI/ML Engineer · Python · Machine Learning · Computer Vision
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sambhav%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sambhav-raj-238aa7265)
 [![GitHub](https://img.shields.io/badge/GitHub-SambhavRaj18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SambhavRaj18)
 [![Location](https://img.shields.io/badge/Location-India-red?style=for-the-badge&logo=google-maps&logoColor=white)](https://github.com/SambhavRaj18)
 
 <p align="center">
-  BCA student building practical, end-to-end Machine Learning, Computer Vision, and intelligent software systems.<br/>
-  Passionate about solving real-world problems with data, transitioning systematically toward <b>Deep Learning, Generative AI, and Agentic Systems</b>.
+  Software & ML Engineer specializing in <b>end-to-end Machine Learning pipelines</b>, <b>Computer Vision</b>, and <b>Intelligent Automation Systems</b>.<br/>
+  Actively building robust, data-driven applications while expanding deeply into <b>Deep Learning, Generative AI, and Agentic Systems</b>.
 </p>
 
 </div>
@@ -18,11 +18,11 @@
 
 ## 🎯 About Me
 
-- 🎓 **Academic Background:** BCA (Bachelor of Computer Applications) student with a core technical focus on **Python & Applied AI/ML**.
-- 🛠️ **What I Build:** End-to-end machine learning classification & regression pipelines, real-time computer vision systems, and intelligent automation tools.
+- 🎓 **Academic Background:** BCA (Bachelor of Computer Applications) student with a dedicated focus on **Python, Applied AI, and Machine Learning Systems**.
+- 🛠️ **Core Focus:** Building reproducible ML classification/regression pipelines, real-time computer vision inference systems, and hardware-integrated intelligent agents.
 - 🏆 **Hackathon Proven:** Winner at **Google Developer Group (GDG) Siliguri** — *Code for Communities: Toy Train Edition*.
-- 🎯 **Career Focus:** Actively preparing for **Internships & Entry-Level AI/ML Engineer / Machine Learning Engineer** opportunities.
-- 🚀 **Approach:** Practical and project-driven — building functional prototypes, validating evaluation metrics, and iteratively deepening algorithmic foundations.
+- 🎯 **Career Focus:** Actively seeking **Full-Time AI/ML Engineer, Machine Learning Engineer, and AI Developer** roles.
+- 🚀 **Engineering Approach:** Rigorous and production-minded — evaluating metrics with cross-validation and threshold analysis, writing modular code, and deploying containerized APIs.
 
 ---
 
@@ -30,7 +30,7 @@
 
 - 🥇 **Winner — Google Developer Group (GDG) Siliguri**
   - *Event:* Code for Communities: Toy Train Edition
-  - *Experience:* Rapid prototyping, building under tight constraints, and engineering community-impact technology solutions.
+  - *Experience:* Rapid prototyping, constrained problem-solving, and engineering community-impact technology solutions.
 
 ---
 
@@ -38,8 +38,8 @@
 
 ### Core & Hands-On (Demonstrated in Projects)
 - **Primary Language:** Python
-- **Machine Learning & Data Science:** NumPy, Pandas, Scikit-Learn, Exploratory Data Analysis (EDA), Data Preprocessing, Feature Scaling & Encoding, Cross-Validation, Model Evaluation, Threshold Tuning
-- **Computer Vision:** OpenCV, MediaPipe, YOLOv8, Haar Cascades, Euclidean Landmark Tracking, Image Processing
+- **Machine Learning & Data Science:** NumPy, Pandas, Scikit-Learn, Exploratory Data Analysis (EDA), Data Preprocessing, Feature Scaling & Encoding, Stratified Cross-Validation, Model Evaluation, Precision-Recall Threshold Optimization
+- **Computer Vision:** OpenCV, MediaPipe, YOLOv8, Haar Cascades, Euclidean Landmark Dynamics, Scale-Invariant Image Processing
 - **Backend & Deployment:** Flask, RESTful APIs, Docker, Git, GitHub
 - **Supporting Technologies (Prototyping & Interfaces):** C++ (ESP8266 / Arduino IoT), Flutter / Dart, Firebase Realtime Database, HTML5/CSS3/JavaScript
 
@@ -90,12 +90,25 @@
 
 ---
 
-## 📈 GitHub Activity & Stats
+## 📈 Engineering Stats & GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SambhavRaj18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sambhav's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SambhavRaj18&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="42%" />
+<table border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=SambhavRaj18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sambhav's GitHub Stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SambhavRaj18&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SambhavRaj18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -105,8 +118,8 @@
 
 - **LinkedIn:** [linkedin.com/in/sambhav-raj-238aa7265](https://www.linkedin.com/in/sambhav-raj-238aa7265)
 - **GitHub:** [@SambhavRaj18](https://github.com/SambhavRaj18)
-- **Open To:** Internships, entry-level AI/ML roles, open-source collaborations, and hackathons.
+- **Open To:** Full-time AI/ML Engineer roles, Machine Learning Developer positions, and high-impact engineering opportunities.
 
 <div align="center">
-  <sub>Designed with precision · Continuously building & learning</sub>
+  <sub>Designed with precision · Continuously building & deploying</sub>
 </div>
