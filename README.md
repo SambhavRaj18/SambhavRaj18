@@ -34,37 +34,6 @@
 
 ---
 
-## 🗺️ Technical Journey & Learning Roadmap
-
-```
-[ FOUNDATIONS & AUTOMATION ]
-  • Python Core & Data Structures
-  • Microcontroller Firmware (C++ / ESP8266 / Arduino)
-  • Real-Time Cloud Synchronization (Firebase RTDB)
-                │
-                ▼
-[ COMPUTER VISION & HCI ]
-  • OpenCV & Haar Cascades
-  • YOLOv8 Object & Face Detection
-  • MediaPipe 3D Landmark Dynamics & Euclidean Gesture Math
-                │
-                ▼
-[ APPLIED MACHINE LEARNING ] ◄─── (CURRENT SOLIDIFIED CORE)
-  • Exploratory Data Analysis & Preprocessing
-  • Scikit-Learn Pipelines & Feature Engineering
-  • Model Optimization, Stratified CV & Threshold Tuning
-  • Containerized Model Serving (Flask + Docker)
-                │
-                ▼
-[ DEEP LEARNING & EXPANSION ] ◄─── (ACTIVE LEARNING / EXPLORING)
-  • PyTorch & TensorFlow Neural Architectures
-  • Natural Language Processing (NLP) & Tokenization
-  • Transformers, LLM Applications & RAG Pipelines
-  • Agentic AI Systems & Multi-Agent Workflows (LangGraph)
-```
-
----
-
 ## 🛠️ Technical Skills
 
 ### Core & Hands-On (Demonstrated in Projects)
@@ -141,4 +110,3 @@
 <div align="center">
   <sub>Designed with precision · Continuously building & learning</sub>
 </div>
-
