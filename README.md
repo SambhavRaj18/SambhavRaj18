@@ -1,15 +1,15 @@
 <div align="center">
 
 # Hi, I'm Sambhav Raj 👋
-### AI/ML Engineer · Python · Machine Learning · Computer Vision
+### AI/ML-Focused Developer · Python · Machine Learning · Computer Vision
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sambhav%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sambhav-raj-238aa7265)
 [![GitHub](https://img.shields.io/badge/GitHub-SambhavRaj18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SambhavRaj18)
 [![Location](https://img.shields.io/badge/Location-India-red?style=for-the-badge&logo=google-maps&logoColor=white)](https://github.com/SambhavRaj18)
 
 <p align="center">
-  Software & ML Engineer specializing in <b>end-to-end Machine Learning pipelines</b>, <b>Computer Vision</b>, and <b>Intelligent Automation Systems</b>.<br/>
-  Actively building robust, data-driven applications while expanding deeply into <b>Deep Learning, Generative AI, and Agentic Systems</b>.
+  BCA student focused on <b>Python, Machine Learning, and Computer Vision</b>.<br/>
+  Building practical, end-to-end applications and prototypes while expanding into <b>Deep Learning, Generative AI, and Agentic Systems</b>.
 </p>
 
 </div>
@@ -18,19 +18,19 @@
 
 ## 🎯 About Me
 
-- 🎓 **Academic Background:** BCA (Bachelor of Computer Applications) student with a dedicated focus on **Python, Applied AI, and Machine Learning Systems**.
-- 🛠️ **Core Focus:** Building reproducible ML classification/regression pipelines, real-time computer vision inference systems, and hardware-integrated intelligent agents.
-- 🏆 **Hackathon Proven:** Winner at **Google Developer Group (GDG) Siliguri** — *Code for Communities: Toy Train Edition*.
-- 🎯 **Career Focus:** Actively seeking **Full-Time AI/ML Engineer, Machine Learning Engineer, and AI Developer** roles.
-- 🚀 **Engineering Approach:** Rigorous and production-minded — evaluating metrics with cross-validation and threshold analysis, writing modular code, and deploying containerized APIs.
+- 🎓 **Academic Background:** BCA (Bachelor of Computer Applications) student with a core focus on **Python & Machine Learning**.
+- 🛠️ **What I Build:** Practical machine learning pipelines, real-time computer vision prototypes, and intelligent automation systems.
+- 🏆 **Hackathon Experience:** Winner at **Google Developer Group (GDG) Siliguri** — *Code for Communities: Toy Train Edition*.
+- 🎯 **Career Focus:** Preparing for **entry-level AI/ML, Machine Learning Developer, and AI Developer** opportunities.
+- 🚀 **Learning Philosophy:** Hands-on and project-oriented — validating model metrics, writing modular code, and building end-to-end working applications.
 
 ---
 
 ## 🏆 Achievements & Hackathons
 
-- 🥇 **Winner — Google Developer Group (GDG) Siliguri**
-  - *Event:* Code for Communities: Toy Train Edition
-  - *Experience:* Rapid prototyping, constrained problem-solving, and engineering community-impact technology solutions.
+- 🥇 **Winner — Google Developer Group (GDG) Siliguri: Code for Communities — Toy Train Edition**
+  - Built and presented a functional prototype under hackathon time constraints.
+  - Focused on rapid problem solving, practical technology integration, and teamwork.
 
 ---
 
@@ -38,55 +38,60 @@
 
 ### Core & Hands-On (Demonstrated in Projects)
 - **Primary Language:** Python
-- **Machine Learning & Data Science:** NumPy, Pandas, Scikit-Learn, Exploratory Data Analysis (EDA), Data Preprocessing, Feature Scaling & Encoding, Stratified Cross-Validation, Model Evaluation, Precision-Recall Threshold Optimization
-- **Computer Vision:** OpenCV, MediaPipe, YOLOv8, Haar Cascades, Euclidean Landmark Dynamics, Scale-Invariant Image Processing
-- **Backend & Deployment:** Flask, RESTful APIs, Docker, Git, GitHub
-- **Supporting Technologies (Prototyping & Interfaces):** C++ (ESP8266 / Arduino IoT), Flutter / Dart, Firebase Realtime Database, HTML5/CSS3/JavaScript
+- **Machine Learning & Data Science:** NumPy, Pandas, Scikit-Learn, Exploratory Data Analysis (EDA), Data Preprocessing, Feature Scaling & Encoding, Stratified Cross-Validation, Model Evaluation, Hyperparameter Tuning, Decision Threshold Analysis
+- **Computer Vision:** OpenCV, MediaPipe, YOLOv8, Haar Cascades, Hand Landmark Tracking, Image Processing
+- **Engineering & Deployment:** Flask, REST APIs, Docker, Git, GitHub
+
+### Supporting Technologies (Prototyping & Interfaces)
+*Technologies used for hackathon prototypes, device interfaces, and automation projects:*
+- **Mobile & Web:** Flutter, Dart, JavaScript, HTML/CSS
+- **IoT & Embedded:** C++ (ESP8266 / Arduino), Firebase Realtime Database, Serial Communication
 
 ### Currently Learning & Exploring
-- **Deep Learning:** PyTorch, TensorFlow / Keras, CNNs, Neural Architecture Design
-- **NLP & Generative AI:** Transformers, Large Language Models (LLMs), Prompt Engineering, Fine-Tuning
-- **Modern AI Systems:** Retrieval-Augmented Generation (RAG), Vector Embeddings, Agentic AI Workflows, LangChain, LangGraph
+- **Deep Learning:** PyTorch, TensorFlow / Keras, CNNs, Neural Networks
+- **NLP & Generative AI:** Transformers, Large Language Models (LLMs), Prompt Engineering
+- **Modern AI Systems:** Retrieval-Augmented Generation (RAG), Vector Embeddings, Agentic AI, LangChain, LangGraph
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📊 [Telco Customer Churn ML Pipeline](https://github.com/SambhavRaj18/telco-churn-ml)
-> **End-to-End Machine Learning Classification & Web Inference Engine**
+> **End-to-End Machine Learning Classification & Web Inference Application**
 - **Tech Stack:** `Python`, `Scikit-Learn`, `Pandas`, `NumPy`, `Flask`, `Docker`
-- Engineered an end-to-end customer churn prediction pipeline with structured EDA, feature encoding, scaling, and missing value handling.
-- Benchmarked multiple classifiers (Logistic Regression, Random Forest, Gradient Boosting) using stratified cross-validation and precision-recall threshold optimization.
-- Packaged model inference into an interactive Flask web application and containerized for portable deployment with Docker.
+- Built an end-to-end customer churn prediction pipeline with structured data cleaning, EDA, feature scaling, and categorical encoding.
+- Evaluated and compared **Logistic Regression, Decision Tree, and Random Forest** models using stratified cross-validation.
+- Performed hyperparameter tuning and decision threshold analysis to optimize recall for at-risk customer identification.
+- Served model predictions through a lightweight Flask web interface and containerized the application using Docker.
 
 ### ⛰️ [PaharRakshak](https://github.com/SambhavRaj18/PaharRakshak)
-> **Tiered On-Device Edge AI & Mesh Consensus Emergency Platform**
-- **Tech Stack:** `Next.js 14`, `Gemini Nano`, `Gemma 2`, `Sobel Canvas Vision`, `WebRTC`, `QR Mesh Relay`
-- Built an offline-first disaster response platform featuring on-device LLM reasoning and client-side computer vision road hazard scoring.
-- Implemented decentralized Levenshtein consensus and pure JavaScript QR-code mesh relay for network-denied environments.
+> **Offline-First Emergency Assistance & Mesh Prototype**
+- **Tech Stack:** `Next.js 14`, `Gemini Nano`, `Gemma 2`, `Canvas Vision`, `WebRTC`, `QR Mesh Relay`
+- Developed an offline-first disaster response prototype combining on-device AI exploration with client-side computer vision road analysis.
+- Explored decentralized QR-code mesh relay concepts for communication in network-denied environments.
 
 ### 🌾 [Kisan_Alert-AI](https://github.com/SambhavRaj18/Kisan_Alert-AI)
-> **Multilingual Indic Voice & SMS Agritech Advisory Platform**
+> **Multilingual Voice & SMS Advisory Prototype**
 - **Tech Stack:** `Flask`, `Scikit-Learn`, `Twilio API`, `Web Speech API`, `Chart.js`
-- Developed an interactive voice response (IVR) and SMS advisory platform for rural farmers supporting multi-dialect Indic speech.
-- Integrated supervised crop recommendation models and agricultural disease classification tools into a unified administrative panel.
+- Built an interactive voice response (IVR) and SMS advisory prototype supporting regional language queries.
+- Integrated supervised crop recommendation models and an advisory dashboard for agricultural assistance.
 
 ### 🖐️ [MultiModeControlSystem](https://github.com/SambhavRaj18/MultiModeControlSystem)
-> **Intent-Gated Multimodal HCI & Hardware Appliance Controller**
+> **Multimodal Vision & Gesture Appliance Controller**
 - **Tech Stack:** `YOLOv8`, `MediaPipe`, `OpenCV`, `PySerial`, `Arduino UNO`, `Flask`
-- Created a touchless appliance control interface with a dual-eye orientation intent gate to prevent false triggers from room bystanders.
-- Derived scale-invariant Euclidean hand openness equations for continuous triac phase dimmer regulation ($0\text{--}100\%$).
+- Created a contactless control system integrating YOLOv8 face detection, eye orientation intent verification, and MediaPipe hand landmark tracking.
+- Transmitted calibrated control values over serial communication to Arduino for appliance switching and intensity dimming.
 
 ### 🔄 [Slick_Syncd](https://github.com/SambhavRaj18/Slick_Syncd)
-> **Real-Time Cloud-Sync IoT Hub with Floating-Logic Relay Firmware**
+> **Cloud-Synchronized IoT Relay Controller**
 - **Tech Stack:** `Firebase RTDB`, `ESP8266 (C++)`, `OpenCV`, `Windows SAPI5`, `Flask`
-- Designed an event-driven automation hub synchronizing Firebase Realtime Database cloud state with physical relays in $< 50\text{ms}$.
-- Engineered C++ high-impedance floating-logic firmware for ESP8266 to eliminate 3.3V-to-5V optocoupler reverse-leakage and boot glitches.
+- Implemented real-time cloud synchronization between Firebase Realtime Database and an ESP8266 microcontroller.
+- Integrated face recognition and text-to-speech feedback for automated appliance status reporting.
 
 ### 📱 [Smart Home AI Companion App](https://github.com/SambhavRaj18/first_project-main)
-> **Cross-Platform Mobile/Desktop Smart Home UI**
-- **Tech Stack:** `Flutter 3.x`, `Dart`, `Riverpod`, `Provider`, `Hive`, `Firebase RTDB`
-- Developed a companion cross-platform client featuring room-by-room device filtering, custom circular stepless sliders, an animated voice assistant console, and offline-first Hive caching.
+> **Cross-Platform IoT Companion Interface**
+- **Tech Stack:** `Flutter`, `Dart`, `Riverpod`, `Provider`, `Hive`, `Firebase RTDB`
+- Built a cross-platform companion interface for smart device monitoring, custom circular sliders, and offline state caching.
 
 ---
 
@@ -112,8 +117,8 @@
 
 - **LinkedIn:** [linkedin.com/in/sambhav-raj-238aa7265](https://www.linkedin.com/in/sambhav-raj-238aa7265)
 - **GitHub:** [@SambhavRaj18](https://github.com/SambhavRaj18)
-- **Open To:** Full-time AI/ML Engineer roles, Machine Learning Developer positions, and high-impact engineering opportunities.
+- **Open To:** Entry-level AI/ML, Machine Learning Developer, and AI Developer opportunities.
 
 <div align="center">
-  <sub>Designed with precision · Continuously building & deploying</sub>
+  <sub>Continuously learning, building, and exploring practical AI systems</sub>
 </div>
